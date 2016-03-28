@@ -1,0 +1,41 @@
+.navigation {
+	margin:0;
+}
+
+.main-menu,
+.categories {
+	padding: 0;
+}
+
+.main-menu {
+	margin-top: 0;
+	margin-bottom: 50px;
+}
+
+.menu-item {
+	font-size: 0.85rem;
+	line-height: 2rem;
+	letter-spacing: 0.04rem;
+
+}
+
+.menu-link {
+	padding: 4px;
+	color:#9B9B9B;
+}
+
+.menu-link:hover,
+.menu-link:active {
+	color: #000;
+	background-color: #F2F2F2;
+}
+
+.categories-title {
+	margin-bottom: 10px;
+	font-size: 0.8rem;
+	letter-spacing: 0.05rem;
+	font-weight: bold;
+	padding-bottom: 10px;
+	border-bottom: solid 1px #F2F2F2;
+
+}
